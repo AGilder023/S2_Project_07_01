@@ -18,22 +18,14 @@
 
 /* Hidden Objects */
 
-
+nav,
+footer,
+article {
+    display: none;
+}
 
 
 
 
 
 /* Comic Book Sheet Styles */
-
-
-
-
-
-
-
-
-
-
-
-
